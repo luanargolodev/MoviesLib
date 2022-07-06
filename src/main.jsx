@@ -5,7 +5,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import App from "./App";
 import Home from './pages/Home';
 import Movie from './pages/Movie';
-import Search from './pages/Home';
+import Search from './pages/Search';
 import "./index.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
